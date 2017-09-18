@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { HashRouter } from "react-hash-router";
+import { HashRouter, Route } from "react-router-dom";
 import Landing from "./Landing.jsx";
 import "./style.css";
 
